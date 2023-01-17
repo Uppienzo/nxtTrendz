@@ -1,0 +1,31 @@
+.cart-summary-container {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+}
+.total-order {
+  font-size: 20px;
+  color: #616e7c;
+  margin: 5px 0px;
+}
+.cart-summary-total-amount {
+  font-weight: bold;
+  color: #171f46;
+  font-size: 28px;
+}
+.cart-summary-no-of-products {
+  color: #616e7c;
+  font-size: 17px;
+  margin: 3px 0px;
+}
+.check-out-button {
+  color: white;
+  background-color: #0b69ff;
+  padding: 8px;
+  margin: 10px 0px;
+  border-width: 0px;
+  border-radius: 5px;
+  font-size: 17px;
+  cursor: pointer;
+}
